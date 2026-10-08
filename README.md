@@ -9,3 +9,6 @@ Repositorio del proyecto Java con Maven desarrollado para la Evaluación 02, don
 
 ## Evidencia T2
 Evaluación 02 - Lenguaje de Programación II - Sección T4AO - Control de versiones con Git y GitHub.
+
+## Control de cambios
+Se gestionaron cambios entre el Working Directory y el Staging Area usando diff, add, reset y restore.
