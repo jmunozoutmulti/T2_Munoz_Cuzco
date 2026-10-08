@@ -12,3 +12,6 @@ Evaluación 02 - Lenguaje de Programación II - Sección T4AO - Control de versi
 
 ## Control de cambios
 Se gestionaron cambios entre el Working Directory y el Staging Area usando diff, add, reset y restore.
+
+## Gestión de ramas
+Rama utilizada: feature-munoz. Se agregó la clase ControlVersion_Munoz que muestra en consola los datos del estudiante.
